@@ -1,2 +1,5 @@
 THIS IS FEATURE 3
+<<<<<<< HEAD
 THIS IS MASTER FILE 
+=======
+>>>>>>> staging
